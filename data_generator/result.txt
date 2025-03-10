@@ -1,0 +1,16 @@
+Original (4x4) - ID3 Accuracy: 0.4831
+Original (4x4) - CART Accuracy: 0.4831
+Original (8x8) - ID3 Accuracy: 0.5066
+Original (8x8) - CART Accuracy: 0.5066
+Original (16x16) - ID3 Accuracy: 0.5697
+Original (16x16) - CART Accuracy: 0.5697
+Original (32x32) - ID3 Accuracy: 0.6835
+Original (32x32) - CART Accuracy: 0.6835
+Original (64x64) - ID3 Accuracy: 0.7933
+Original (64x64) - CART Accuracy: 0.7933
+Original (128x128) - ID3 Accuracy: 0.8923
+Original (128x128) - CART Accuracy: 0.8923
+Original (256x256) - ID3 Accuracy: 0.9461
+Original (256x256) - CART Accuracy: 0.9461
+Original (512x512) - ID3 Accuracy: 0.9723
+Original (512x512) - CART Accuracy: 0.9723
