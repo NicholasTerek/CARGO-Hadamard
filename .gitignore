@@ -13,10 +13,12 @@ build/
 *.a
 *.so
 *.dSYM/
-.vscode
+
 
 
 #
-
+.vscode
 .png 
 .txt
+data/
+data_generator/c.txt
