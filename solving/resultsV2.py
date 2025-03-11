@@ -92,7 +92,7 @@ def plot_graphs(filename):
     plt.grid(True, linestyle='--', linewidth=0.6)
     plt.show()
 
-# 🔹 Run the script with a command-line argument
+# 🔹 Run the script with a command-line argumentg
 if __name__ == "__main__":
     if len(sys.argv) != 2:
         print("❌ Usage: python resultsV2.py <path_to_result_file>")

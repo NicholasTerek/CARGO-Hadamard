@@ -13,3 +13,10 @@ build/
 *.a
 *.so
 *.dSYM/
+.vscode
+
+
+#
+
+.png 
+.txt
